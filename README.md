@@ -11,6 +11,14 @@ now You will have to provide your
 
 own files from that build, to set it up.
 
+RIGHT NOW IT IS VERY UNSTABLE WITH CONTROLLER MAPOUTS
+
+IF YOU WANT A GOOD EXPERIENCE PLEASE LOOK
+
+AT THE WEB PORT FOR NOW.
+
+https://github.com/martenmario64/Pizza-Tower-Eggplant-Web-Port
+
 # How to set it up
 go to releases,
 
