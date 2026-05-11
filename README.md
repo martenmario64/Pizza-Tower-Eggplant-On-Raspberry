@@ -2,14 +2,23 @@
 # Pizza-Tower-Eggplant-On-Raspberry
 What is this project?
 
+
 this allows You to play the Eggplant Build
+
 on Raspberry Pi Hardware, there are two
+
 releases of this installer, one is
+
 the STANDARD release, pretty stable, but not
+
 fully native and takes a longer time to set up,
+
 there is a native release, but it is VERY
+
 unstable with controller mapping, and does not
+
 come with my custom optimizations.
+
 
 LINKS:
 
