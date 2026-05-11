@@ -20,7 +20,7 @@ run setup.sh, and it should be in your
 
 Home folder.
 
-# THE BONUS IN THE STANDARD VERSION
+# The Major Bonus in the Standard Version.
 I put back in the debug console into the Eggplant
 Build.
 ]
