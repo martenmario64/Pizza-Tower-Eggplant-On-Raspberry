@@ -23,33 +23,4 @@ Home folder.
 # THE BONUS IN THE STANDARD VERSION
 I put back in the debug console into the Eggplant
 Build.
-
-# KNOWN ISSUES
-if you don't wanna help with these issues
-you don't have to read this, anyways, this
-is bugs for the NATIVE Version.
-
-# CONTROLLER ISSUES
-due to the fact the compiler I used
-
-was the default linux arm64 compiler for
-
-Gamemaker... some controls just... Don't
-
-work, specfically as i said in the title, controllers,
-
-the controller mappings are all wrong, and/or
-
-it does not get the controller at all,
-
-right now if you want a soild experience
-
-with a controller, please install AntiMicroX, and
-
-assign key buttons to the controller. [this is how you
-
-install AntiMicroX.
-
-"sudo apt install antimicrox -y"
-
 ]
