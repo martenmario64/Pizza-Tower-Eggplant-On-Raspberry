@@ -3,10 +3,13 @@
 What is this project?
 
 this allows You to play the Eggplant Build
-on Raspberry Pi Hardware, there is a NATIVE
-version of this installer, but it is
-more instable, for the best experience use
-the standard install.
+on Raspberry Pi Hardware, there are two
+releases of this installer, one is
+the STANDARD release, pretty stable, but not
+fully native and takes a longer time to set up,
+there is a native release, but it is VERY
+unstable with controller mapping, and does not
+come with my custom optimizations.
 
 LINKS:
 
@@ -30,4 +33,3 @@ Home folder.
 # The Major Bonus in the Standard Version.
 I put back in the debug console into the Eggplant
 Build.
-]
