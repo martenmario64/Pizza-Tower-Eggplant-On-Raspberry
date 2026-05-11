@@ -19,8 +19,7 @@ unstable with controller mapping, and does not
 
 come with my custom optimizations.
 
-
-LINKS:
+# Links
 
 Standard Release: "https://github.com/martenmario64/Pizza-Tower-Eggplant-On-Raspberry/releases/tag/V1.0.051126"
 
