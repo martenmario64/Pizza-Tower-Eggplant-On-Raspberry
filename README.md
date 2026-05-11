@@ -1,23 +1,11 @@
 # Pizza-Tower-Eggplant-On-Raspberry
 What is this project?
 
-this is a FULLY native way to play
-
-the old Pizza Tower Prototype Build
-
-Eggplant Build entirely natively,
-
-now You will have to provide your
-
-own files from that build, to set it up.
-
-RIGHT NOW IT IS VERY UNSTABLE WITH CONTROLLER MAPOUTS
-
-IF YOU WANT A GOOD EXPERIENCE PLEASE LOOK
-
-AT THE WEB PORT FOR NOW.
-
-https://github.com/martenmario64/Pizza-Tower-Eggplant-Web-Port
+this allows You to play the Eggplant Build
+on Raspberry Pi Hardware, there is a NATIVE
+version of this installer, but it is
+more instable, for the best experience use
+the standard install.
 
 # How to set it up
 go to releases,
@@ -34,7 +22,8 @@ Home folder.
 
 # KNOWN ISSUES
 if you don't wanna help with these issues
-you don't have to read this, anyways.
+you don't have to read this, anyways, this
+is bugs for the NATIVE Version.
 
 # CONTROLLER ISSUES
 due to the fact the compiler I used
