@@ -9,6 +9,7 @@ more instable, for the best experience use
 the standard install.
 
 LINKS:
+
 Standard Release: "https://github.com/martenmario64/Pizza-Tower-Eggplant-On-Raspberry/releases/tag/V1.0.051126"
 
 Unstable Release: "https://github.com/martenmario64/Pizza-Tower-Eggplant-On-Raspberry/releases/tag/Native_But_Unstable"
