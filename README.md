@@ -5,25 +5,10 @@ What is this project?
 
 this allows You to play the Eggplant Build
 
-on Raspberry Pi Hardware, there are two
+on Raspberry Pi Hardware, this version
 
-releases of this installer, one is
-
-the STANDARD release, pretty stable, but not
-
-fully native and takes a longer time to set up,
-
-there is a native release, but it is VERY
-
-unstable with controller mapping, and does not
-
-come with my custom optimizations.
-
-# Links
-
-Standard Release: "https://github.com/martenmario64/Pizza-Tower-Eggplant-On-Raspberry/releases/tag/V1.0.051126"
-
-Unstable Release: "https://github.com/martenmario64/Pizza-Tower-Eggplant-On-Raspberry/releases/tag/Native_But_Unstable"
+comes with a Debug Console, Unlike The Original
+Eggplant Build.
 
 # How to set it up
 go to releases,
@@ -38,6 +23,7 @@ run setup.sh, and it should be in your
 
 Home folder.
 
-# The Major Bonus in the Standard Version.
-I put back in the debug console into the Eggplant
-Build.
+# Credits
+Tour De Pizza - Pizza Tower
+
+MartenMario64 - Developer of this installer.
